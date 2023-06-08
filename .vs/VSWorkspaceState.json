@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TAF_TMS_C1onl",
+    "\\TAF_TMS_C1onl\\Tests",
+    "\\TAF_TMS_C1onl\\Tests\\API",
+    "\\TAF_TMS_C1onl\\Utilites\\Configuration",
+    "\\TAF_TMS_C1onl\\Utilites\\Helpers"
   ],
+  "SelectedNode": "\\TAF_TMS_C1onl\\Tests\\API\\ProjectsTest.cs",
   "PreviewInSolutionExplorer": false
 }
